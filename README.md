@@ -4,9 +4,11 @@
   
 - <b>Automated ELK Stack Deployment</b>
   - [ELK Stack](https://github.com/Khashayarnzk/Project1-UofT.git)
-
-
-<h2> 🤳 Connect with me:</h2>
+<h2>👨‍💻 Steganography Project:</h2>
+  
+   - [Steganography with cover-text](https://doi.org/10.1016/j.jisa.2019.01.003)
+  
+  <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
