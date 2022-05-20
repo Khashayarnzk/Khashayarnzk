@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
+  
 - <b>Automated ELK Stack Deployment</b>
   - [ELK Stack](https://github.com/Khashayarnzk/Project1-UofT.git)
+
+ - <b>Red Vs. Blue Team Project</b>
+    - [Red Vs. Blue Team](https://docs.google.com/presentation/d/1x6tE0D-0tQjvxafy414GhqDiWQZHpJ_gW0D7vVsIsBU/edit?usp=sharing)
 <h2>👨‍💻 Steganography Project:</h2>
   
    - [Steganography with cover-text](https://doi.org/10.1016/j.jisa.2019.01.003)
@@ -16,7 +20,7 @@
 [linkedin]: https://linkedin.com/in/khashayar-nazarkardeh
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
