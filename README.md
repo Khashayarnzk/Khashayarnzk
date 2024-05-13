@@ -1,5 +1,43 @@
 <h1>Hi, I'm Khashayar! <br/><a href="https://github.com/Khashayarnzk">Cybersecurity Analyst | Threat Hunter</a> <a href="https://www.linkedin.com/in/khashayar-nazarkardeh/">
 
+### For markdown texts, we need to specify the languages for corresponding syntax highlighting. 
+
+Following is an example for highlighting c++ codes in markdown texts.
+
+![code syntax](https://github.com/jincheng9/markdown_supported_languages/blob/master/markdown_code_syntax.jpg)
+
+``` cpp
+bool getBit(int num, int i) {
+	return ((num & (1<<i)) != 0);
+}
+```
+
+**Note**: The programming languages supported by the markdown depends on the markdown editor you use. The editor need to detect the language and do the syntax highlight.
+
+* For example, Bitbucket describes its [Bitbucket markdown supported languages](https://bitbucket.org/tutorials/markdowndemo/src/master/#markdown-header-code-and-syntax-highlighting).
+
+### Here's a full list of supported languages:
+
+ * Cucumber ('*.feature')
+
+ * abap ('*.abap')
+
+ * ada ('*.adb', '*.ads', '*.ada')
+
+ * ahk ('*.ahk', '*.ahkl')
+
+ * apacheconf ('.htaccess', 'apache.conf', 'apache2.conf')
+
+ * applescript ('*.applescript')
+
+ * as ('*.as')
+
+ * as3 ('*.as')
+
+ * asy ('*.asy')
+
+ * bash ('*.sh', '*.ksh', '*.bash', '*.ebuild', '*.eclass')
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
   
