@@ -38,7 +38,7 @@ bool getBit(int num, int i) {
 
  * bash ('*.sh', '*.ksh', '*.bash', '*.ebuild', '*.eclass')
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
   
   
 - <b>Automated ELK Stack Deployment</b>
