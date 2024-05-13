@@ -46,11 +46,11 @@ bool getBit(int num, int i) {
 
  - <b>Red Vs. Blue Team Project</b>
     - [Red Vs. Blue Team](https://docs.google.com/presentation/d/1x6tE0D-0tQjvxafy414GhqDiWQZHpJ_gW0D7vVsIsBU/edit?usp=sharing)
-<h2>👨‍💻 Steganography Project:</h2>
+<h2> Steganography Project:</h2>
   
    - [Steganography with cover-text](https://doi.org/10.1016/j.jisa.2019.01.003)
   
-  <h2> 🤳 Connect with me:</h2>
+  <h2>  Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
