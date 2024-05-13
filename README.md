@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khashayar! <br/><a href="https://github.com/Khashayarnzk">Cybersecurity Professional</a> <a href="https://www.linkedin.com/in/khashayar-nazarkardeh/">
+<h1>Hi, I'm Khashayar! <br/><a href="https://github.com/Khashayarnzk">Cybersecurity Analyst | Threat Hunter</a> <a href="https://www.linkedin.com/in/khashayar-nazarkardeh/">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
