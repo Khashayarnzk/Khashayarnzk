@@ -24,9 +24,3 @@
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/khashayar-nazarkardeh/
 - Email: khashayar.nazarkardeh@gmail.com 
-
----
-
-##  Fun / stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
-
