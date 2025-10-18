@@ -1,73 +1,48 @@
-<h1>Hi, I'm Khashayar! <br/><a href="https://github.com/Khashayarnzk">Cybersecurity Analyst | Threat Hunter </a> <a href="https://www.linkedin.com/in/khashayar-nazarkardeh/"> </a>
+<!-- /README.md for your GitHub Profile -->
+# Hi — I'm Khashayar Nazarkardeh 👋
+**Red Team Lead · Offensive Security · OSCP**  
+I lead offensive security programs that blend threat emulation, tooling, and detection engineering. I build high-quality, reusable tooling for red teams and purple-team exercises — always with an emphasis on ethics, safe disclosure, and detection enablement.
 
-### For markdown texts, we need to specify the languages for corresponding syntax highlighting. 
+---
 
-Following is an example for highlighting c++ codes in markdown texts.
+## 🔭 What I do
+- Lead red team / adversary emulation programs and tabletop exercises  
+- Build automation & detection-focused tooling (Python, PowerShell, Bash)  
+- Mentor SOC & detection engineers to turn attacks into detections  
+- Develop secure, repeatable purple-team playbooks for org-wide readiness
 
-![code syntax](https://github.com/jincheng9/markdown_supported_languages/blob/master/markdown_code_syntax.jpg)
+---
 
-``` cpp
-bool getBit(int num, int i) {
-	return ((num & (1<<i)) != 0);
-}
-```
+## 🔧 Tech & tools
+- Languages: `Python` · `PowerShell` · `Go` · `Bash`
+- Platforms: Windows · Linux · Azure · AWS
+- Tooling: custom scanners, emulation scripts, detection playbooks, KQL for detection engineering
 
-**Note**: The programming languages supported by the markdown depends on the markdown editor you use. The editor need to detect the language and do the syntax highlight.
+---
 
-* For example, Bitbucket describes its [Bitbucket markdown supported languages](https://bitbucket.org/tutorials/markdowndemo/src/master/#markdown-header-code-and-syntax-highlighting).
+## 📌 Pinned repositories
+- **offsec-toolkit** — Reusable scripts & lab tooling (sanitized).  
+- **adversary-emulation-playbooks** — Attack chains + defender playbooks.  
+- **detection-examples** — Mapped TTPs → SIEM rules and Hunting queries.
 
-### Here's a full list of supported languages:
+*(Note: sensitive / real exploit code is sanitized or omitted. Private repos used for internal tools.)*
 
- * Cucumber ('*.feature')
+---
 
- * abap ('*.abap')
+## 🧭 Principles
+1. **Responsible**: No production credentials, no real-target PoCs in public.  
+2. **Reproducible**: Tests & labs should be repeatable in a controlled environment.  
+3. **Detectable**: Every offensive test should produce defender-focused artifacts.
 
- * ada ('*.adb', '*.ads', '*.ada')
+---
 
- * ahk ('*.ahk', '*.ahkl')
+## 📫 Contact
+- LinkedIn: linkedin.com/in/yourprofile  
+- Email: your.email@domain.tld (or use GitHub profile email)  
+- Speaking / training inquiries — DM on LinkedIn or open an issue on this repo
 
- * apacheconf ('.htaccess', 'apache.conf', 'apache2.conf')
+---
 
- * applescript ('*.applescript')
+## ⚡ Fun / stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
 
- * as ('*.as')
-
- * as3 ('*.as')
-
- * asy ('*.asy')
-
- * bash ('*.sh', '*.ksh', '*.bash', '*.ebuild', '*.eclass')
-
-<h2> Cybersecurity Projects:</h2>
-  
-  
-- <b>Automated ELK Stack Deployment</b>
-  - [ELK Stack](https://github.com/Khashayarnzk/Project1-UofT.git)
-
- - <b>Red Vs. Blue Team Project</b>
-    - [Red Vs. Blue Team](https://docs.google.com/presentation/d/1x6tE0D-0tQjvxafy414GhqDiWQZHpJ_gW0D7vVsIsBU/edit?usp=sharing)
-<h2> Steganography Project:</h2>
-  
-   - [Steganography with cover-text](https://doi.org/10.1016/j.jisa.2019.01.003)
-  
-  <h2>  Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://linkedin.com/in/khashayar-nazarkardeh
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-https://twitter.com/khashayar_nzk
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
