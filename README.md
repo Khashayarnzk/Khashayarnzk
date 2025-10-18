@@ -1,6 +1,5 @@
 <!-- /README.md for your GitHub Profile -->
-# Hi I'm Khashayar Nazarkardeh
-** Red Team Lead · Offensive Security ** 
+# Hi I'm Khashayar Nazarkardeh - Red Team Lead · Offensive Security
 -Senior Offensive Security Specialist with expertise in threat hunting and penetration testing. Passionate about continuous learning through threat intelligence research and Capture the Flag (CTF) challenges. Dedicated to advancing offensive security capabilities and sharing knowledge responsibly within the cybersecurity community.
 ---
 ## What I do
