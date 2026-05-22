@@ -1,7 +1,7 @@
 <h1 align="center">Khashayar Nazarkardeh</h1>
 
 <p align="center">
-Cybersecurity & AI Security Leader · Red Team Operations · Web Application Penetration Testing · Offensive AI Security
+Cybersecurity & AI Security Leader · Red Team Operations · Offensive AI Security
 </p>
 
 <p align="center">
