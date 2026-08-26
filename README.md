@@ -1,40 +1,31 @@
 <h1 align="center">Khashayar Nazarkardeh</h1>
 
 <p align="center">
-Cybersecurity & AI Security Leader · Red Team Operations · Offensive AI Security
+Cybersecurity & AI Security Leader · Purple Team Operations · Offensive AI Security Research
 </p>
 
 <p align="center">
+  <a href="https://khashayarnazarkardeh.com">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/khashayar-nazarkardeh/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:khashayar.nazarkardeh@gmail.com">Email</a>
+  <a href="mailto:research@khashayarnazarkardeh.com">Contact</a>
 </p>
 
 ---
 
-I lead red team operations and AI security research with a focus on web application penetration testing and offensive security tooling. My work spans full kill-chain enterprise engagements, bug bounty programs, and the emerging attack surface of AI-powered systems — from LLM prompt injection to autonomous agent exploitation.
+My work centers on purple team operations and AI security research — closing the gap between what attackers can do and what defenses actually catch. This spans adversarial validation of detection and control coverage, threat hunting, and offensive testing of LLM-powered systems, from prompt injection to autonomous agent exploitation.
 
-I build the tools I use. My current project is a fully autonomous web application pentest agent — orchestrating reconnaissance through post-exploitation using a dual LLM architecture that routes sensitive operations to a local model and keeps cloud exposure to a minimum.
-
----
-
-**Specializations**
-
-Web application penetration testing · Red team engagement design and execution · AI and LLM security research · Autonomous offensive security tooling · Bug bounty operations across HackerOne and Bugcrowd · Post-exploitation and lateral movement · Secure tool development in Python
-
-**Tooling**
-
-Burp Suite · OWASP ZAP · Nuclei · Nmap · Masscan · SQLMap · XSStrike · ffuf · Metasploit · Amass · Subfinder · Shodan · LangGraph · Anthropic Claude API · Ollama
-
-**Certifications**
-
-CBBH — Certified Bug Bounty Hunter · CPTS — Certified Penetration Testing Specialist · OSAI — Offensive Security AI (in progress)
+M.S., Cryptography and Information Security. Published research on steganographic methods (peer-reviewed, *Journal of Information Security and Applications*).
 
 ---
 
-**Featured work**
+**Research & disclosures**
 
-[pentest-agent](https://github.com/khashayarnzk/pentest-agent) — Autonomous web application pentest agent with full kill-chain orchestration. Dual LLM routing, scope enforcement, human approval gates, persistent audit logging, and auto-generated reports. Built on LangGraph with Claude API and Ollama.
+CVE research, PoCs, and technical writeups — indexed at [khashayarnazarkardeh.com/research](https://khashayarnazarkardeh.com) *(or link a `cve-research` repo here once live)*.
 
----
+**Focus areas**
 
-*Currently completing OSAI · Open to red team consulting and AI security research collaborations*
+Threat hunting and purple team operations — adversarial validation of detection and control coverage · AI/LLM red teaming and adversarial ML · Detection engineering and gap remediation
+
+**Current build**
+
+Autonomous web application pentest agent — full kill-chain orchestration via a dual-LLM architecture, routing sensitive operations to a local model to minimize cloud exposure. Scope enforcement, human approval gates, persistent audit logging, auto-generated reporting.
